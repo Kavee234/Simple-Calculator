@@ -1,0 +1,10 @@
+*.exe
+*.out
+*.o
+*.depend
+*.layout
+*.cbp
+*.user
+bin/
+obj/
+.vscode/
